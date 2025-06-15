@@ -1,9 +1,15 @@
+## Objectives
 
-## Objectifs
+Automate the ingestion of marketing data
 
-- Automatiser l’ingestion de données marketing
-- Transformer et enrichir les données pour le reporting
-- Charger dans un data warehouse Snowflake
-- Garantir qualité, sécurité et scalabilité
+Transform and enrich the data for reporting
+
+Load into a Snowflake data warehouse
+
+Ensure quality, security, and scalability
+
+
+
+
 
 
